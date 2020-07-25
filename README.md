@@ -1,2 +1,6 @@
 # selectionbook
-prueba
+Para comenzar
+
+npm install
+
+npm run start
